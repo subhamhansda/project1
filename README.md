@@ -1,4 +1,4 @@
 
 # New project
 
-This project was created from local storage.
+This project was created from local storage...
